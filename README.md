@@ -20,7 +20,7 @@
 dotnet run <url with 'http://'> <your license> <your password> <local path to image>
 ```
 
-Єдиною зовнішньою залежністю цього проєкту є "dotnet-sdk". Його можна встановити за офіційними посібниками для [Windows](https://learn.microsoft.com/en-us/dotnet/core/install/windows?tabs=net80) [Linux](https://learn.microsoft.com/en-us/dotnet/core/install/linux).
+Єдиною зовнішньою залежністю цього проєкту є "dotnet-sdk". Його можна встановити за офіційними посібниками для [Windows](https://learn.microsoft.com/en-us/dotnet/core/install/windows?tabs=net80) та [Linux](https://learn.microsoft.com/en-us/dotnet/core/install/linux).
 
 Далі необхідно створити новий екземпляр dotnet оточення за допомогою команди:
 ```
